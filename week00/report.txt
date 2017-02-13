@@ -1,0 +1,3 @@
+Pada minggu 0, mahasiswa diminta untuk membuat akun-akun yang dibutuhkan untuk
+kegiatan lab, seperti akun Google, akun Github, dan mencoba login ke server Badak
+melalui software bernama PuTTY.
