@@ -1,0 +1,3 @@
+Pada lab minggu 1, saya diminta untuk mempelajari berbagai basic yang ada pada
+Git, serta diminta dalam menjalankan beberapa perintah di command line seperti
+membuat, berpindah, dan menghapus file dan folder via server Badak.
