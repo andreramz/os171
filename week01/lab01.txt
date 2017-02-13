@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 andre.ramadhani StafCS 4096 Feb 13 20:12 .
+drwx--x--x  3 andre.ramadhani StafCS 4096 Feb 13 19:39 ..
+drwxr-xr-x  8 andre.ramadhani StafCS 4096 Feb 13 20:08 .git
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:54 key
+-rw-r--r--  1 andre.ramadhani StafCS    0 Feb 13 20:13 lab01.txt
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:53 log
+-rw-r--r--  1 andre.ramadhani StafCS    7 Feb 13 19:39 README.md
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:58 sandbox
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 20:07 week00
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 20:12 week01
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:47 week02
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:48 week03
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:48 week04
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:49 week05
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:50 week06
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:50 week07
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:52 week08
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:52 week09
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:53 week10
+drwxr-xr-x  2 andre.ramadhani StafCS 4096 Feb 13 19:54 xtra
+/home/fasilkom/mahasiswa/a/andre.ramadhani/os171/week01
