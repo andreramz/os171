@@ -1,0 +1,7 @@
+w01-170214-13-LR-Introduction to Operating System, From: Lecturer
+w01-170214-13-LR-Introduction to Operating System, From: Lecturer
+w01-170214-14-LR-Introduction to Operating System, From: Lecturer
+w01-170214-19-PS-Introduction to CLI and Scripting
+w01-170216-13-LR-IPR and Scripting, From: Lecturer
+w01-170216-13-LR-IPR and Scripting, From: Lecturer
+w01-170216-14-LR-awk and regex, From: Lecturer
