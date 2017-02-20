@@ -1,6 +1,0 @@
-/home/fasilkom/mahasiswa/a/andre.ramadhani/.gnupg/pubring.gpg
--------------------------------------------------------------
-pub   4096R/17C34EE0 2017-02-20 [expires: 2017-08-19]
-uid                  Andre Ramadhani (studying OS is fun!) <andre.ramadhani@ui.ac.id>
-sub   4096R/665DD4B0 2017-02-20 [expires: 2017-08-19]
-
