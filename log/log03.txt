@@ -1,0 +1,8 @@
+w03-170228-13-LR-What happens if a computer is turned on? From: Lecturer
+w03-170228-13-LR-What happens if a computer is turned on? From: Lecturer
+w03-170228-14-LR-What happens if a computer is turned on? From: Lecturer
+w03-170301-15-PS-Booting and Upstart
+w03-170228-15-PS-Booting and Upstart
+w03-170228-13-LR-GRUB and GRUB2, From: Lecturer
+w03-170228-13-LR-Address and Pointer, From: Lecturer
+w03-170228-14-LR-Address and Pointer, From: Lecturer
